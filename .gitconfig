@@ -2,4 +2,9 @@
 	name = Jens Moller
 	email = jensamoller@gmail.com
 [credentials]
-	helper = osx
+	helper = osxkeychain
+[color]
+	ui = true
+[core]
+	editor = open -a 'Sublime Text 2'
+	excludesfile = /Users/jm/.gitignore_global
